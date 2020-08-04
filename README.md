@@ -1,5 +1,5 @@
 ## makeCoverLetter_LSTM
-자기소개서 써주는 프로그램을 만드는 개인 프로젝트입니다. 언어는 Python, 개발환경은 Visual Studio Code이며 LSTM 모델을 사용합니다.  
+자기소개서 써주는 프로그램을 만드는 개인 프로젝트입니다. 언어는 Python, 개발환경은 Visual Studio Code이며 LSTM 모델을 사용합니다. 일차적 목표는 완벽하지 않아도 한 항목에 대해 짧은 문단 하나를 출력하는 것입니다.   
 strat 2020.08.04
 
 
